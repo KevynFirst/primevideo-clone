@@ -4,7 +4,7 @@
 
 <h2 align="center">📖Descrição</h2>
 
-<p align="center">Clone do site Amazon Prime Video, desenvolvido com HTML5, CSS3 e Javascript vanilla no curso danki code front-end completo. Usando flexbox, método fecth para puxar o conteudo de forma dinamica da API do site www.themoviedb.org.</p>
+<p align="center">Clone do site Amazon Prime Video, desenvolvido com HTML5, CSS3 e Javascript vanilla no curso Danki Code front-end completo. Usando flexbox e método fecth para puxar o conteúdo de forma dinâmica da API do site www.themoviedb.org.</p>
 
 <br>
 
