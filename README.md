@@ -23,7 +23,6 @@
 - [HTML5](https://html.com/)
 - [CSS3](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 - [Javascript](https://www.javascript.com)
-- [TheMovieDb](https://www.themoviedb.org/signup)
 
 <br>
 
