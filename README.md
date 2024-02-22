@@ -29,7 +29,7 @@ Clone do front-end do site Amazon Prime Video, desenvolvido com HTML5, CSS3 e Ja
 
 ## 🖥 Preview
 <p align="center">
-  <img alt="Preview do projeto desenvolvido." src="clone.png" width="80%">
+  <img alt="Preview do projeto desenvolvido." src="clone.jpg" width="80%">
 </p>
 <p align="center">
 Veja o projeto funcionando <a href="https://kevynfirst.github.io/primevideo-clone">aqui</a>. 👈
